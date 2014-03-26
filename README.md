@@ -11,3 +11,11 @@ to use it in your project simply add the following line with your package name t
 ```javascript
 reporters: ['myPackage/illwise-reporter.js']
 ```
+
+Example for HTML Report:
+
+![alt text](http://i.imgur.com/9SR9UKY.jpg "illwise HTML report")
+
+Example for Console Output:
+
+![alt text](http://i.imgur.com/yynAnfk.jpg "illwise HTML report")
